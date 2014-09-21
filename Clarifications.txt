@@ -1,0 +1,8 @@
+In escape sequences, when we use the 
+\N{name}
+\xhh
+\uxxxx
+\f
+Exercise-13, unpacking variables
+exercise-16, CTRL-C and RETURN (non defining properties)
+ 

@@ -1,0 +1,35 @@
+http://www.tutorialspoint.com/python/python_tutorial.pdf
+
+"Def" is used for creating the function in the python
+"*" in *args tells the python to take all the arguments to the function and put them in args as a list.
+argv (argument holding) and args (argument holding is for function)
+
+EXERCISE-20
+Seek(0) is a code moves the file to the 0 or 1st byte in the file.
+f is a variable just like in other functions, but here it is a fie.
+
+Exercise-25
+A function takes inputs through arguments and returning output through "RETURN"
+
+Exercise-30
+The elif statement allows you to check multiple expressions for truth value and execute a block of code as soon as one of the conditions evaluates to true.
+Like the else, the elif statement is optional. However, unlike else, for which there can be at most one statement, there can be an arbitrary number of elif statements following an if.
+
+The syntax of the if...elif statement is:
+
+if expression1:
+   statement(s)
+elif expression2:
+   statement(s)
+elif expression3:
+   statement(s)
+else:
+   statement(s) 
+   
+   
+   
+A for-loop can only iterate (loop) "over" collections of things. 
+A while-loop can do any kind of iteration (looping) you want. 
+However, while-loops are harder to get right and you 
+normally can get many things done with for-loops.   
+   
