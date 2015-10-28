@@ -1,7 +1,8 @@
 pi = "khkh"
-ti = 2.1
+ti = 3.14
 
-print "value of pi is %s." %(pi)
+print "value of pi is %s." %(ti)
 
 print "How much do you weigh?"
-weight = input()
+weight = raw_input()
+print "\nYour weight is " + weight
